@@ -4,7 +4,7 @@
   "description": "Exercice pour la formation Webpack du centre Code418",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack"
   },
   "author": "Trystan SARRADE",
   "license": "UNLICENSED"
